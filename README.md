@@ -1,7 +1,7 @@
 # Exercise: Level 1
 
-Check the python version you are using
-Open the python interactive shell and do the following operations. The operands are 3 and 4.
+1.Check the python version you are using
+2.Open the python interactive shell and do the following operations. The operands are 3 and 4.
 addition(+)
 subtraction(-)
 multiplication(\*)
@@ -9,7 +9,7 @@ modulus(%)`
 division(/)
 exponential(\*\*)
 floor division operator(//)
-Write strings on the python interactive shell. The strings are the following:
+3.Write strings on the python interactive shell. The strings are the following:
 Your name
 Your family name
 Your country
