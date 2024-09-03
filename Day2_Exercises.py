@@ -1,4 +1,4 @@
-'''#3. Declare a first name variable and assign a value to it
+#3. Declare a first name variable and assign a value to it
 first_name = 'Aldrin'
 #4. Declare a last name variable and assign a value to it
 last_name = 'Tamonte'
@@ -45,11 +45,11 @@ user2 = float(input("Enter the Second Number: "))
 total = (user1 + user2) / 2
 
 print(f"The average of {num1} and {num2} is: {total}")
-
+'''
 Enter the First Number: 100
 Enter the Second Number: 12
 The average of 1 and 2 is: 56.0
-
+'''
 
 #19. Write a python program to calculate  the square  of a number entered by the user.
 users = float(input("Enter any number: "))
@@ -66,7 +66,7 @@ first_name = 'Aldrin'
 last_name = 'Tamonte'
 total = first_name,last_name
 print(len(total))
-'''
+
 '''4. Declare 5 as num_one and 4 as num_two
     * Add num_one and num_two and assign the value to a variable total
     * Subtract num_two from num_one and assign the value to a variable diff
