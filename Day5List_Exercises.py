@@ -362,7 +362,7 @@ middle_item = countries[middle_index]
 print(middle_item)#Lesotho
 #2.Divide the countries list into two equal lists if it is even if not one more country for the first half.
 # Calculate the split index
-''split_index = (len(countries) + 1) // 2
+split_index = (len(countries) + 1) // 2
 
 # Divide the list into two parts
 first_half = countries[:split_index]
@@ -370,7 +370,7 @@ second_half = countries[split_index:]
 
 # Print the two halves
 print("First half:", first_half)
-print("Second half:", second_half)''
+print("Second half:", second_half)
 #3.['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']. Unpack the first three countries and the rest as scandic countries.
 # Unpack the first three countries
 countries = [
